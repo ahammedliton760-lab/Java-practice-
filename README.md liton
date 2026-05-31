@@ -1,1 +1,6 @@
+public class Helloword{
+  public static void main(Stirng[]args){
+ .. System. out.println("Hello Word");
 
+  }
+}
